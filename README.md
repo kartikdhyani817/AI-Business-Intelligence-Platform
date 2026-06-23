@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AI-Powered Business Intelligence Platform is an end-to-end analytics solution that allows users to upload datasets and automatically generate business insights, reports, visualizations, and AI-powered recommendations.
+AI-Powered Business Intelligence Platform is an end-to-end analytics solution that enables users to upload datasets and automatically generate business insights, reports, visualizations, and AI-powered recommendations.
 
 The project combines Data Analytics, Business Intelligence, Machine Learning, and Generative AI into a single platform.
 
@@ -18,6 +18,17 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 - Statistical Summary
 - Business Metrics Generation
 - Dataset Report Export
+
+### Day 2
+
+- Data Cleaning Engine
+- Duplicate Detection
+- Missing Value Reporting
+- Outlier Detection
+- Data Type Analysis
+- Unique Value Analysis
+- Data Quality Scoring
+- Clean Dataset Export
 
 ---
 
@@ -50,11 +61,11 @@ Dataset Profiling
 
 ↓
 
-Business Metrics
+Data Cleaning
 
 ↓
 
-Data Cleaning
+Data Quality Analysis
 
 ↓
 
@@ -70,29 +81,31 @@ Dashboard
 
 ---
 
-## Key Metrics Generated
+## Data Quality Features
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
+- Missing Value Detection
+- Duplicate Detection
+- Outlier Detection
+- Data Quality Score
+- Clean Dataset Generation
 
 ---
 
 ## Upcoming Features
 
-### Day 2
+### Day 3
 
-- Data Cleaning Engine
-- Missing Value Handling
-- Duplicate Detection
-- Data Quality Report
+- Exploratory Data Analysis
+- Category Analysis
+- Sales Analysis
+- Profit Analysis
+- Regional Performance Analysis
 
 ---
 
 ## Project Status
 
-Day 1 of Development
+Day 2 of Development
 
 ---
 
