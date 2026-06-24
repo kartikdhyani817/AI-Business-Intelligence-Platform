@@ -17,7 +17,6 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 - Missing Value Analysis
 - Statistical Summary
 - Business Metrics Generation
-- Dataset Report Export
 
 ### Day 2
 
@@ -25,10 +24,18 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 - Duplicate Detection
 - Missing Value Reporting
 - Outlier Detection
-- Data Type Analysis
-- Unique Value Analysis
 - Data Quality Scoring
-- Clean Dataset Export
+
+### Day 3
+
+- Sales Analysis
+- Profit Analysis
+- Category Analysis
+- Regional Analysis
+- Customer Analysis
+- Segment Analysis
+- Business Insights Generation
+- Automated EDA Engine
 
 ---
 
@@ -37,6 +44,7 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 - Google Colab
 
 ---
@@ -57,7 +65,7 @@ Dataset Upload
 
 ↓
 
-Dataset Profiling
+Data Profiling
 
 ↓
 
@@ -65,11 +73,11 @@ Data Cleaning
 
 ↓
 
-Data Quality Analysis
+EDA Engine
 
 ↓
 
-Visualization
+Business Insights
 
 ↓
 
@@ -81,31 +89,31 @@ Dashboard
 
 ---
 
-## Data Quality Features
+## Business Metrics Generated
 
-- Missing Value Detection
-- Duplicate Detection
-- Outlier Detection
-- Data Quality Score
-- Clean Dataset Generation
+- Total Sales
+- Total Profit
+- Top Categories
+- Top Regions
+- Top Customers
+- Segment Performance
 
 ---
 
 ## Upcoming Features
 
-### Day 3
+### Day 4
 
-- Exploratory Data Analysis
-- Category Analysis
-- Sales Analysis
-- Profit Analysis
-- Regional Performance Analysis
+- Advanced Visualizations
+- KPI Dashboard
+- Trend Analysis
+- Monthly Performance Analysis
 
 ---
 
 ## Project Status
 
-Day 2 of Development
+Day 3 of Development
 
 ---
 
