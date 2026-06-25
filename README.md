@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AI-Powered Business Intelligence Platform is an end-to-end analytics solution that enables users to upload datasets and automatically generate business insights, reports, visualizations, and AI-powered recommendations.
+AI-Powered Business Intelligence Platform is an end-to-end analytics solution that enables users to upload datasets and automatically generate business insights, reports, visualizations, KPI dashboards, and AI-powered recommendations.
 
 The project combines Data Analytics, Business Intelligence, Machine Learning, and Generative AI into a single platform.
 
@@ -12,30 +12,33 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 
 ### Day 1
 
-- CSV Dataset Upload
+- Dataset Upload
 - Dataset Profiling
 - Missing Value Analysis
-- Statistical Summary
 - Business Metrics Generation
 
 ### Day 2
 
 - Data Cleaning Engine
+- Data Quality Reporting
 - Duplicate Detection
-- Missing Value Reporting
 - Outlier Detection
-- Data Quality Scoring
 
 ### Day 3
 
+- Automated EDA Engine
 - Sales Analysis
 - Profit Analysis
-- Category Analysis
-- Regional Analysis
 - Customer Analysis
-- Segment Analysis
-- Business Insights Generation
-- Automated EDA Engine
+- Regional Analysis
+
+### Day 4
+
+- KPI Dashboard Metrics
+- Monthly Trend Analysis
+- State Performance Analysis
+- Executive Summary Generator
+- Business Performance Reporting
 
 ---
 
@@ -59,6 +62,17 @@ Sample - Superstore.csv
 
 ---
 
+## Dashboard Metrics
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value
+- Best Category
+- Best Region
+
+---
+
 ## Workflow
 
 Dataset Upload
@@ -77,7 +91,11 @@ EDA Engine
 
 ↓
 
-Business Insights
+KPI Dashboard
+
+↓
+
+Executive Reporting
 
 ↓
 
@@ -85,35 +103,24 @@ AI Insights
 
 ↓
 
-Dashboard
-
----
-
-## Business Metrics Generated
-
-- Total Sales
-- Total Profit
-- Top Categories
-- Top Regions
-- Top Customers
-- Segment Performance
+Dashboard Application
 
 ---
 
 ## Upcoming Features
 
-### Day 4
+### Day 5
 
-- Advanced Visualizations
-- KPI Dashboard
-- Trend Analysis
-- Monthly Performance Analysis
+- Gemini AI Integration
+- AI Business Insights
+- AI Recommendations Engine
+- Automated Report Generation
 
 ---
 
 ## Project Status
 
-Day 3 of Development
+Day 4 of Development
 
 ---
 
