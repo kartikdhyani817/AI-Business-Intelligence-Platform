@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-AI-Powered Business Intelligence Platform is an end-to-end analytics solution that enables users to upload datasets and automatically generate business insights, reports, visualizations, KPI dashboards, and AI-powered recommendations.
-
-The project combines Data Analytics, Business Intelligence, Machine Learning, and Generative AI into a single platform.
+AI-Powered Business Intelligence Platform is an end-to-end analytics solution that combines Business Intelligence, Data Analytics, Machine Learning, and Generative AI to automate business reporting and insight generation.
 
 ---
 
@@ -12,33 +10,38 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 
 ### Day 1
 
-- Dataset Upload
+- CSV Dataset Upload
 - Dataset Profiling
-- Missing Value Analysis
-- Business Metrics Generation
+- Business Metrics
 
 ### Day 2
 
 - Data Cleaning Engine
-- Data Quality Reporting
-- Duplicate Detection
+- Data Quality Report
 - Outlier Detection
 
 ### Day 3
 
-- Automated EDA Engine
+- Exploratory Data Analysis
 - Sales Analysis
 - Profit Analysis
-- Customer Analysis
 - Regional Analysis
+- Customer Analysis
 
 ### Day 4
 
-- KPI Dashboard Metrics
-- Monthly Trend Analysis
-- State Performance Analysis
+- KPI Dashboard
+- Trend Analysis
 - Executive Summary Generator
-- Business Performance Reporting
+
+### Day 5
+
+- Gemini AI Integration
+- AI Executive Summary
+- AI Business Insights
+- Business Recommendation Engine
+- Dataset Question Answering
+- SWOT Analysis
 
 ---
 
@@ -48,6 +51,7 @@ The project combines Data Analytics, Business Intelligence, Machine Learning, an
 - Pandas
 - NumPy
 - Matplotlib
+- Google Gemini API
 - Google Colab
 
 ---
@@ -62,24 +66,19 @@ Sample - Superstore.csv
 
 ---
 
-## Dashboard Metrics
+## AI Capabilities
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Average Order Value
-- Best Category
-- Best Region
+- Executive Summary Generation
+- Business Insights
+- SWOT Analysis
+- Recommendation Engine
+- Natural Language Question Answering
 
 ---
 
 ## Workflow
 
-Dataset Upload
-
-↓
-
-Data Profiling
+CSV Upload
 
 ↓
 
@@ -87,7 +86,7 @@ Data Cleaning
 
 ↓
 
-EDA Engine
+EDA
 
 ↓
 
@@ -95,32 +94,32 @@ KPI Dashboard
 
 ↓
 
-Executive Reporting
+AI Analysis
 
 ↓
 
-AI Insights
+Recommendations
 
 ↓
 
-Dashboard Application
+Dashboard
 
 ---
 
 ## Upcoming Features
 
-### Day 5
+### Day 6
 
-- Gemini AI Integration
-- AI Business Insights
-- AI Recommendations Engine
-- Automated Report Generation
+- AI Executive Report Generator (PDF)
+- AI KPI Report
+- Downloadable Reports
+- Business Presentation Summary
 
 ---
 
 ## Project Status
 
-Day 4 of Development
+Day 5 of Development
 
 ---
 
