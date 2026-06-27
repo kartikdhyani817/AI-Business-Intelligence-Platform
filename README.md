@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-AI-Powered Business Intelligence Platform is an end-to-end analytics solution that combines Business Intelligence, Data Analytics, Machine Learning, and Generative AI to automate business reporting and insight generation.
+AI-Powered Business Intelligence Platform is an end-to-end analytics solution that transforms raw business data into actionable insights, executive reports, KPI dashboards, and AI-generated recommendations.
+
+The platform combines Data Analytics, Business Intelligence, Machine Learning, and Generative AI into a professional analytics workflow.
 
 ---
 
@@ -25,23 +27,30 @@ AI-Powered Business Intelligence Platform is an end-to-end analytics solution th
 - Exploratory Data Analysis
 - Sales Analysis
 - Profit Analysis
-- Regional Analysis
 - Customer Analysis
+- Regional Analysis
 
 ### Day 4
 
 - KPI Dashboard
 - Trend Analysis
-- Executive Summary Generator
+- Executive Summary
 
 ### Day 5
 
 - Gemini AI Integration
-- AI Executive Summary
 - AI Business Insights
-- Business Recommendation Engine
-- Dataset Question Answering
+- Recommendation Engine
 - SWOT Analysis
+- Dataset Question Answering
+
+### Day 6
+
+- Executive Business Report Generator
+- PDF Report Export
+- KPI Report Generator
+- Board Meeting Summary
+- Professional Business Documentation
 
 ---
 
@@ -52,27 +61,19 @@ AI-Powered Business Intelligence Platform is an end-to-end analytics solution th
 - NumPy
 - Matplotlib
 - Google Gemini API
+- ReportLab
 - Google Colab
 
 ---
 
-## Dataset
+## Reports Generated
 
-Superstore Dataset
-
-File:
-
-Sample - Superstore.csv
-
----
-
-## AI Capabilities
-
-- Executive Summary Generation
-- Business Insights
+- Executive Business Report
+- KPI Report
+- Board Meeting Summary
 - SWOT Analysis
-- Recommendation Engine
-- Natural Language Question Answering
+- AI Business Insights
+- PDF Executive Report
 
 ---
 
@@ -94,11 +95,15 @@ KPI Dashboard
 
 ↓
 
-AI Analysis
+AI Insights
 
 ↓
 
-Recommendations
+Executive Reports
+
+↓
+
+Business Recommendations
 
 ↓
 
@@ -108,18 +113,18 @@ Dashboard
 
 ## Upcoming Features
 
-### Day 6
+### Day 7
 
-- AI Executive Report Generator (PDF)
-- AI KPI Report
-- Downloadable Reports
-- Business Presentation Summary
+- AI Chat with Dataset
+- Conversational Analytics
+- Multi-Question Support
+- Insight History
 
 ---
 
 ## Project Status
 
-Day 5 of Development
+Day 6 of Development
 
 ---
 
