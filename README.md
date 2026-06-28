@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-AI-Powered Business Intelligence Platform is an end-to-end analytics solution that transforms raw business data into actionable insights, executive reports, KPI dashboards, and AI-generated recommendations.
-
-The platform combines Data Analytics, Business Intelligence, Machine Learning, and Generative AI into a professional analytics workflow.
+AI-Powered Business Intelligence Platform is an intelligent analytics platform that combines data analysis, business intelligence, machine learning, and Generative AI to automate business reporting and support data-driven decision-making.
 
 ---
 
@@ -12,23 +10,23 @@ The platform combines Data Analytics, Business Intelligence, Machine Learning, a
 
 ### Day 1
 
-- CSV Dataset Upload
+- Dataset Upload
 - Dataset Profiling
 - Business Metrics
 
 ### Day 2
 
-- Data Cleaning Engine
+- Data Cleaning
 - Data Quality Report
-- Outlier Detection
+- Duplicate Detection
+- Outlier Analysis
 
 ### Day 3
 
 - Exploratory Data Analysis
 - Sales Analysis
-- Profit Analysis
 - Customer Analysis
-- Regional Analysis
+- Profit Analysis
 
 ### Day 4
 
@@ -40,17 +38,23 @@ The platform combines Data Analytics, Business Intelligence, Machine Learning, a
 
 - Gemini AI Integration
 - AI Business Insights
-- Recommendation Engine
 - SWOT Analysis
-- Dataset Question Answering
+- Recommendation Engine
 
 ### Day 6
 
-- Executive Business Report Generator
-- PDF Report Export
-- KPI Report Generator
+- Executive Report Generator
+- PDF Export
+- KPI Reports
 - Board Meeting Summary
-- Professional Business Documentation
+
+### Day 7
+
+- AI Dataset Chat
+- Conversational Analytics
+- Business Recommendation Engine
+- Business Health Score
+- Conversation History Export
 
 ---
 
@@ -66,14 +70,25 @@ The platform combines Data Analytics, Business Intelligence, Machine Learning, a
 
 ---
 
+## AI Features
+
+- Business Insight Generation
+- Executive Reporting
+- SWOT Analysis
+- Dataset Question Answering
+- Conversational Analytics
+- Recommendation Engine
+
+---
+
 ## Reports Generated
 
-- Executive Business Report
+- Executive Report
 - KPI Report
-- Board Meeting Summary
-- SWOT Analysis
-- AI Business Insights
-- PDF Executive Report
+- SWOT Report
+- Business Recommendations
+- Conversation History
+- Business Health Score
 
 ---
 
@@ -83,7 +98,7 @@ CSV Upload
 
 ↓
 
-Data Cleaning
+Cleaning
 
 ↓
 
@@ -99,11 +114,11 @@ AI Insights
 
 ↓
 
-Executive Reports
+Conversational Analytics
 
 ↓
 
-Business Recommendations
+Reports
 
 ↓
 
@@ -113,18 +128,18 @@ Dashboard
 
 ## Upcoming Features
 
-### Day 7
+### Day 8
 
-- AI Chat with Dataset
-- Conversational Analytics
-- Multi-Question Support
-- Insight History
+- Interactive Dashboard
+- Plotly Visualizations
+- Dynamic KPI Cards
+- Business Intelligence Dashboard
 
 ---
 
 ## Project Status
 
-Day 6 of Development
+Day 7 of Development
 
 ---
 
