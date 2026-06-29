@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AI-Powered Business Intelligence Platform is an intelligent analytics platform that combines data analysis, business intelligence, machine learning, and Generative AI to automate business reporting and support data-driven decision-making.
+AI-Powered Business Intelligence Platform is an end-to-end analytics solution that combines Business Intelligence, Machine Learning, Data Analytics, and Generative AI to automate business reporting, visualization, and executive decision support.
 
 ---
 
@@ -24,9 +24,9 @@ AI-Powered Business Intelligence Platform is an intelligent analytics platform t
 ### Day 3
 
 - Exploratory Data Analysis
-- Sales Analysis
 - Customer Analysis
-- Profit Analysis
+- Regional Analysis
+- Sales & Profit Analysis
 
 ### Day 4
 
@@ -43,8 +43,8 @@ AI-Powered Business Intelligence Platform is an intelligent analytics platform t
 
 ### Day 6
 
-- Executive Report Generator
-- PDF Export
+- Executive Reports
+- PDF Report Generation
 - KPI Reports
 - Board Meeting Summary
 
@@ -52,9 +52,17 @@ AI-Powered Business Intelligence Platform is an intelligent analytics platform t
 
 - AI Dataset Chat
 - Conversational Analytics
-- Business Recommendation Engine
 - Business Health Score
-- Conversation History Export
+- Conversation Export
+
+### Day 8
+
+- Interactive Plotly Dashboard
+- KPI Dashboard
+- Interactive Charts
+- Sales Trends
+- Customer Segment Analysis
+- Regional Performance Dashboard
 
 ---
 
@@ -64,82 +72,50 @@ AI-Powered Business Intelligence Platform is an intelligent analytics platform t
 - Pandas
 - NumPy
 - Matplotlib
+- Plotly
 - Google Gemini API
 - ReportLab
 - Google Colab
 
 ---
 
+## Dashboard Features
+
+- KPI Cards
+- Interactive Bar Charts
+- Interactive Pie Charts
+- Interactive Scatter Plot
+- Monthly Trend Analysis
+- Customer Segment Analysis
+- Regional Dashboard
+- Product Performance Dashboard
+
+---
+
 ## AI Features
 
-- Business Insight Generation
-- Executive Reporting
-- SWOT Analysis
-- Dataset Question Answering
-- Conversational Analytics
-- Recommendation Engine
-
----
-
-## Reports Generated
-
-- Executive Report
-- KPI Report
-- SWOT Report
+- Executive Report Generation
 - Business Recommendations
-- Conversation History
-- Business Health Score
-
----
-
-## Workflow
-
-CSV Upload
-
-↓
-
-Cleaning
-
-↓
-
-EDA
-
-↓
-
-KPI Dashboard
-
-↓
-
-AI Insights
-
-↓
-
-Conversational Analytics
-
-↓
-
-Reports
-
-↓
-
-Dashboard
+- SWOT Analysis
+- Conversational Analytics
+- Dataset Question Answering
 
 ---
 
 ## Upcoming Features
 
-### Day 8
+### Day 9
 
-- Interactive Dashboard
-- Plotly Visualizations
-- Dynamic KPI Cards
-- Business Intelligence Dashboard
+- Streamlit Web Application
+- Upload CSV from Browser
+- Interactive Dashboard UI
+- AI Chat in Web Interface
 
 ---
 
 ## Project Status
 
-Day 7 of Development
+Day 8 of Development
 
 ---
 
